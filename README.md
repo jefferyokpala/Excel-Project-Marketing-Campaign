@@ -32,7 +32,24 @@ Microsoft Excel
 
 * Next, I added a new sheet to create pivot tables and charts to visualize relevant data. The first pivot showed the marketing campaign results by job title. From the pivot table and stacked bar chart, the company had the most marketing success reaching out to students, retirees, and unemployed people. The data shows that about 40% of people in each of those categories responded favorably.  Meanwhile, entrepreneurs were the least likely to be persuaded by the campaign.
 
-![image alt](
+![image alt](https://github.com/jefferyokpala/Excel-Project-Marketing-Campaign/blob/main/images/image7.png?raw=true)
 
-![image alt](
+![image alt](https://github.com/jefferyokpala/Excel-Project-Marketing-Campaign/blob/main/images/image5.png?raw=true)
+
+* I also created a pivot table and line chart that showed the campaign results by contact type. This lets us know the mode of contact that is most effective in attracting customers. From the data, most respondents were contacted by cell phone. The data also shows that the methods of communication that were entered as unknown had the highest success rate. This deserves further investigation to know what those unknown contact types are. But sticking with the known contact types, the success rate of both is similar, although landlines have a higher success rate. Landlines have a success rate of 26.3% while cellphones have a success rate of 23.7%, according to the dataset.
+
+![image alt](https://github.com/jefferyokpala/Excel-Project-Marketing-Campaign/blob/main/images/image3.png?raw=true)
+
+![image alt](https://github.com/jefferyokpala/Excel-Project-Marketing-Campaign/blob/main/images/image6.png?raw=true)
+
+* Next, I created a pivot table and horizontal bar chart to visualize the campaign results by education level. The marketing campaign was most successful with university graduates, with 41.7% of respondents responding positively. The success rate of the remaining categories was: high school education level respondents at 21.1% and those that were unspecified at 26.9%.
+
+![image alt](https://github.com/jefferyokpala/Excel-Project-Marketing-Campaign/blob/main/images/image2.png?raw=true)
+
+![image alt](https://github.com/jefferyokpala/Excel-Project-Marketing-Campaign/blob/main/images/image4.png?raw=true)
+
+* To conclude, I created a dashboard on another sheet that shows all the relevant information in the dataset and makes it possible to present the data to business stakeholders. I added slicers to the dashboard to filter the information displayed by gender, marital status, and whether the respondents had active credit or not.
+
+![image alt](https://github.com/jefferyokpala/Excel-Project-Marketing-Campaign/blob/main/images/image1.png?raw=true)
+
 
