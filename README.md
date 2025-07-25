@@ -10,7 +10,7 @@ To determine the category of people likely to respond favorably to a company's m
 
 ## Data Source
 
-I obtained this dataset from Kaggle, and it can be found here
+I obtained this dataset from Kaggle, and it can be found [here](https://www.kaggle.com/datasets/khanimar/marketing-campaign-analysis-data?select=test.csv)
 
 ## Tools
 
